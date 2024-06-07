@@ -1,0 +1,5 @@
+chainlit==1.1.202
+langchain==0.2.3
+langchain_openai==0.1.8
+langchain-community==0.2.4
+python-dotenv
